@@ -61,6 +61,7 @@ canvas {
   border-radius: 0 0 3px 3px;
 }
 
+/* Logo Style */
 #uberledger-logo {
   height: 100%;
   width: 100%;
@@ -72,5 +73,5 @@ canvas {
   height: 50%;
   display: block;
   margin: auto;
-  margin-top: 10%;
+  margin-top: 5%;
 }
